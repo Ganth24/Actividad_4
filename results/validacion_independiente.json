@@ -1,0 +1,20 @@
+{
+  "source_zip": "salidas_colab_sst2.zip",
+  "source_csv_sha256": "968b804848a23fb0154dfb4cd684a740f1a5795eacce658f884cb0bb4067bdfc",
+  "validated_examples_per_model": 872,
+  "predictions": 2616,
+  "model_count": 3,
+  "metrics_verified": [
+    "accuracy",
+    "precision_macro",
+    "recall_macro",
+    "f1_macro",
+    "precision_positiva",
+    "recall_positiva",
+    "f1_positiva",
+    "matriz_confusion"
+  ],
+  "dataset_sha256_verified": true,
+  "selector_result": "DistilBERT",
+  "offline_unit_tests_passed": 3
+}

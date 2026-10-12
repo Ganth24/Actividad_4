@@ -1,0 +1,9 @@
+{
+  "dataset_id": "nyu-mll/glue",
+  "configuration": "sst2",
+  "split": "validation",
+  "revision": "bcdcba79d07bc864c1c254ccfcedcce55bcc9a8c",
+  "n": 872,
+  "sha256": "870a7aa452e28083f3ed48ebf771e69f1dd78f34faad7ec3adafd81533d6f1c8",
+  "url": "https://huggingface.co/datasets/nyu-mll/glue"
+}

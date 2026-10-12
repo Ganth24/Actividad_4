@@ -1,0 +1,12 @@
+# Colab aporta PyTorch con CUDA. Verificar torch>=2.6 (necesario para algunos .bin).
+transformers==4.52.4
+datasets==3.6.0
+huggingface_hub==0.33.0
+accelerate==1.7.0
+scikit-learn==1.6.1
+pandas==2.2.3
+numpy>=1.26,<3
+safetensors>=0.5.3,<1
+matplotlib>=3.8,<4
+pytest>=8,<10
+openpyxl==3.1.5

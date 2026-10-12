@@ -1,0 +1,81 @@
+idx,sentence,label,source,split
+SYN-0-000,The plot was confusing and never became interesting.,0,synthetic_manual,smoke_test
+SYN-0-001,The acting felt stiff and completely unconvincing.,0,synthetic_manual,smoke_test
+SYN-0-002,A dull film that wasted a potentially good idea.,0,synthetic_manual,smoke_test
+SYN-0-003,The loud soundtrack distracted me from the story.,0,synthetic_manual,smoke_test
+SYN-0-004,The dialogue sounded awkward and poorly written.,0,synthetic_manual,smoke_test
+SYN-0-005,I would not recommend this movie to anyone.,0,synthetic_manual,smoke_test
+SYN-0-006,The director failed to create any meaningful tension.,0,synthetic_manual,smoke_test
+SYN-0-007,Every main character seemed flat and forgettable.,0,synthetic_manual,smoke_test
+SYN-0-008,The pacing dragged and the jokes were painfully weak.,0,synthetic_manual,smoke_test
+SYN-0-009,The final scene was abrupt and deeply disappointing.,0,synthetic_manual,smoke_test
+SYN-0-010,An uninspired performance from an otherwise capable cast.,0,synthetic_manual,smoke_test
+SYN-0-011,The visuals looked cheap and strangely unfinished.,0,synthetic_manual,smoke_test
+SYN-0-012,The film did not deliver on its interesting premise.,0,synthetic_manual,smoke_test
+SYN-0-013,A tiresome adventure full of predictable events.,0,synthetic_manual,smoke_test
+SYN-0-014,The ending left far too many frustrating gaps.,0,synthetic_manual,smoke_test
+SYN-0-015,I disliked how repetitive the dialogue became.,0,synthetic_manual,smoke_test
+SYN-0-016,This is a tedious story that fails to connect.,0,synthetic_manual,smoke_test
+SYN-0-017,The movie mixed comedy and drama in an awkward way.,0,synthetic_manual,smoke_test
+SYN-0-018,The central relationship felt artificial and forced.,0,synthetic_manual,smoke_test
+SYN-0-019,A disappointing experience that fell below expectations.,0,synthetic_manual,smoke_test
+SYN-0-020,The action was chaotic and made no sense.,0,synthetic_manual,smoke_test
+SYN-0-021,A derivative and unoriginal attempt at a familiar genre.,0,synthetic_manual,smoke_test
+SYN-0-022,"It was boring, unpleasant, and full of forgettable scenes.",0,synthetic_manual,smoke_test
+SYN-0-023,The lead actor struggled to make the character believable.,0,synthetic_manual,smoke_test
+SYN-0-024,This clumsily made film was instantly forgettable.,0,synthetic_manual,smoke_test
+SYN-0-025,The writing was careless and none of the jokes worked.,0,synthetic_manual,smoke_test
+SYN-0-026,The emotional moments felt manipulative and false.,0,synthetic_manual,smoke_test
+SYN-0-027,A messy production with no consistent sense of rhythm.,0,synthetic_manual,smoke_test
+SYN-0-028,This independent film was unfortunately underdeveloped.,0,synthetic_manual,smoke_test
+SYN-0-029,The narrative wandered without any clear direction.,0,synthetic_manual,smoke_test
+SYN-0-030,An exhausting movie I would never watch again.,0,synthetic_manual,smoke_test
+SYN-0-031,It offered neither believable suspense nor emotional depth.,0,synthetic_manual,smoke_test
+SYN-0-032,The performances could not save the weak screenplay.,0,synthetic_manual,smoke_test
+SYN-0-033,The unattractive visuals made the experience worse.,0,synthetic_manual,smoke_test
+SYN-0-034,A frustrating conclusion undermined the entire story.,0,synthetic_manual,smoke_test
+SYN-0-035,The characters had no chemistry throughout the film.,0,synthetic_manual,smoke_test
+SYN-0-036,I found the entire viewing experience irritating.,0,synthetic_manual,smoke_test
+SYN-0-037,An unimaginative film that wastes its unusual setting.,0,synthetic_manual,smoke_test
+SYN-0-038,The movie was predictable and painfully slow.,0,synthetic_manual,smoke_test
+SYN-0-039,A shallow story delivered without skill or sensitivity.,0,synthetic_manual,smoke_test
+SYN-1-000,The story kept me interested from the first scene to the end.,1,synthetic_manual,smoke_test
+SYN-1-001,The actors gave convincing and moving performances.,1,synthetic_manual,smoke_test
+SYN-1-002,A charming film with a thoughtful and satisfying ending.,1,synthetic_manual,smoke_test
+SYN-1-003,The soundtrack added real emotion to every important moment.,1,synthetic_manual,smoke_test
+SYN-1-004,A clever script that made the entire experience enjoyable.,1,synthetic_manual,smoke_test
+SYN-1-005,I would happily recommend this movie to my friends.,1,synthetic_manual,smoke_test
+SYN-1-006,The director turned a simple idea into something memorable.,1,synthetic_manual,smoke_test
+SYN-1-007,Every major character felt believable and well developed.,1,synthetic_manual,smoke_test
+SYN-1-008,The pace was excellent and the humor worked naturally.,1,synthetic_manual,smoke_test
+SYN-1-009,The final scene was beautiful and surprisingly powerful.,1,synthetic_manual,smoke_test
+SYN-1-010,A wonderful performance by an exceptionally talented cast.,1,synthetic_manual,smoke_test
+SYN-1-011,The cinematography made even ordinary scenes look stunning.,1,synthetic_manual,smoke_test
+SYN-1-012,The film delivered exactly the kind of joy I expected.,1,synthetic_manual,smoke_test
+SYN-1-013,An entertaining adventure filled with warmth and imagination.,1,synthetic_manual,smoke_test
+SYN-1-014,The ending tied the story together in a rewarding way.,1,synthetic_manual,smoke_test
+SYN-1-015,I loved how carefully the dialogue was written.,1,synthetic_manual,smoke_test
+SYN-1-016,This is an inspiring story that deserves attention.,1,synthetic_manual,smoke_test
+SYN-1-017,The movie balanced comedy and drama exceptionally well.,1,synthetic_manual,smoke_test
+SYN-1-018,The central relationship felt honest and touching.,1,synthetic_manual,smoke_test
+SYN-1-019,A delightful surprise that exceeded my expectations.,1,synthetic_manual,smoke_test
+SYN-1-020,The action was exciting without sacrificing the story.,1,synthetic_manual,smoke_test
+SYN-1-021,A refreshing and original take on a familiar genre.,1,synthetic_manual,smoke_test
+SYN-1-022,"It was funny, warmhearted, and full of memorable scenes.",1,synthetic_manual,smoke_test
+SYN-1-023,The lead actor brought remarkable depth to the role.,1,synthetic_manual,smoke_test
+SYN-1-024,This beautifully made film stayed with me afterward.,1,synthetic_manual,smoke_test
+SYN-1-025,The writing was smart and the jokes landed perfectly.,1,synthetic_manual,smoke_test
+SYN-1-026,The emotional moments felt earned rather than forced.,1,synthetic_manual,smoke_test
+SYN-1-027,A polished production with an excellent sense of rhythm.,1,synthetic_manual,smoke_test
+SYN-1-028,This small independent film was genuinely impressive.,1,synthetic_manual,smoke_test
+SYN-1-029,The story moved forward with confidence and creativity.,1,synthetic_manual,smoke_test
+SYN-1-030,An absorbing movie that I could watch again.,1,synthetic_manual,smoke_test
+SYN-1-031,It offered a satisfying mixture of suspense and heart.,1,synthetic_manual,smoke_test
+SYN-1-032,The performances gave life to a fascinating screenplay.,1,synthetic_manual,smoke_test
+SYN-1-033,The visuals were striking and helped tell the story.,1,synthetic_manual,smoke_test
+SYN-1-034,A moving conclusion made the journey worthwhile.,1,synthetic_manual,smoke_test
+SYN-1-035,The characters had great chemistry throughout the film.,1,synthetic_manual,smoke_test
+SYN-1-036,I found the entire viewing experience highly rewarding.,1,synthetic_manual,smoke_test
+SYN-1-037,An imaginative film that makes great use of its setting.,1,synthetic_manual,smoke_test
+SYN-1-038,The movie was engaging and surprisingly well paced.,1,synthetic_manual,smoke_test
+SYN-1-039,A thoughtful story delivered with skill and sensitivity.,1,synthetic_manual,smoke_test
